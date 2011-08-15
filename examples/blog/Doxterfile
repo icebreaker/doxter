@@ -1,0 +1,5 @@
+title: 'John Doe'
+url: 'http://john.doe/'
+author: 'John Doe'
+files: ['_posts/*.markdown', '_pages/*.*']
+extra_files: ['css', 'images', 'favicon.ico']

@@ -1,0 +1,3 @@
+title: Hello World
+files: ['_src/*.*']
+extra_files: ['css', 'images']

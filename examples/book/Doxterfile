@@ -1,0 +1,3 @@
+output_file: index.html
+files: ['_src/*.md']
+extra_files: ['css', 'images']

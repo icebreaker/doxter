@@ -1,0 +1,88 @@
+---
+layout: post
+title: Hiatus
+tags: [hiatus, back]
+---
+Hey there! Backy, back or righty right?
+
+Olde New
+--------
+Much nicer and richer syntax highlighting:
+
+```python
+def HelloWorld():
+	print('Hello World')
+```
+
+```cpp
+class HelloWorld
+{
+	public:
+		HelloWorld(void) {}
+}
+```
+
+Or just *pre*:
+
+	$ whoami
+
+Much nicer quotes:
+
+> Now, if Lahaina Divers just realized that they should tell people from Northern Europe 
+> to show up at 7:30 (instead of 7AM for the tardy people who don't have that Germanic 
+> "Ve vill be on time" mentality), and if the pull requests I got had been a bit higher quality,
+> it would all have been perfect.
+> 
+> (Linus Torvalds on [G+](https://plus.google.com/102150693225130002912/posts))
+
+Notices:
+
+```!notice
+This is a Hello World notice! Beware of the Hello World notices.
+```
+
+Warnings:
+
+```!warning
+This is a Hello World warning! Beware of the Hello World warning.
+```
+
+Info(s):
+
+```!info
+This is a Hello World info! Beware of the Hello World info.
+```
+
+Tables:
+
+Apples | Oranges
+------ | -------
+egg	   | chicken
+banana | cucumber
+blonde | brunette
+
+Lists and page breaks:
+
+1. one
+2. two
+3. three
+
+---
+
+* one
+* two
+* three
+
+Images:
+
+![](/images/two.jpg)
+
+Auto links:
+
+[http://proudify.me]()
+
+All these in `plain Markdown` with *some* extensions. Isn't it beautiful? Lets you focus on the *precious content*.
+
+Next
+----
+Oh, crap there's no next!
