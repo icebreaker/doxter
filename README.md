@@ -55,6 +55,8 @@ in fact you'll be able to use your existing posts written for Jekyll.
 Please refer to the `Plugins` section for more information and usage patterns
 concering plugins.
 
+If you want to an see "example" in action, feel free to check out my [blog](https://github.com/icebreaker/icebreaker.github.com).
+
 Doxterfile
 ----------
 The `Doxterfile` is a YAML file and contains the various configuration
