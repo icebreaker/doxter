@@ -9,7 +9,7 @@ setup(
 	description=doxter.__description__,
 	author=doxter.__author__,
 	scripts=['bin/doxter'],
-	packages=['doxter'],
+	packages=['doxter', 'doxter.processors'],
 	classifiers=[
 		'Development Status :: 1 - Beta',
 		'Environment :: Console',
