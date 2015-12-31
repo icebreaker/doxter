@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-__author__		= 'Mihail Szabolcs'
+__author__      = 'Mihail Szabolcs'
 __description__ = 'A general purpose "static site" generator'
-__version__		= (0, 2, 0)
-__license__		= 'MIT'
+__version__     = (0, 2, 1)
+__license__     = 'MIT'
 
 import sys, os, yaml
 
