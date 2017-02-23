@@ -1,10 +1,15 @@
 # -*- coding: utf-8 -*-
 __author__      = 'Mihail Szabolcs'
 __description__ = 'A general purpose "static site" generator'
-__version__     = (0, 2, 1)
+__version__     = (0, 2, 2)
 __license__     = 'MIT'
 
-import sys, os, yaml
+import sys, os
+
+try:
+    import yaml
+except ImportError:
+    pass
 
 class Struct(object):
 	def __init__(self, **args):

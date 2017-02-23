@@ -242,6 +242,6 @@ Contribute
 
 License
 -------
-Copyright (c) 2011, Mihail Szabolcs
+Copyright (c) 2011-2017, Mihail Szabolcs
 
 Doxter is provided **as-is** under the **MIT** license. For more information see LICENSE.
